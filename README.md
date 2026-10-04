@@ -25,8 +25,9 @@ Data cleaning and transformation
    
         ###  HOME TAB  ➡️  CLOSE &  LOAD  
 
-### 6) Conditional Formatting  
-        - **Price column:**   Select Price Column full ➡️Home tab  ➡️ Styles Group  Conditional Formatting                                      ➡️Data bars ➡️ select 
+### 6) Conditional Formatting
+
+ - **Price column:**   Select Price Column full ➡️Home tab  ➡️ Styles Group  Conditional Formatting                                      ➡️Data bars ➡️ select 
         - **Category column:**    Select category column full ➡️ Conditional Formatting ➡️Highlight Cell Rules 
                                     ➡️Text that Contains ➡️ Electronics ➡️ select color ➡️ OK
                                     
